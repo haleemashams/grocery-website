@@ -1,15 +1,9 @@
-header{
+div {
+    display: block;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
 
 }
-/* .icon{ */
-/* display: inline;
-    stroke-width: 1px;
-stroke: #000;
-fill:#000 ;
-margin-top:-7px;
-font-size: xx-large;
-color:white;
-padding: -1rem;
-direction: none; */
-/* padding-right: 1em; */
-
